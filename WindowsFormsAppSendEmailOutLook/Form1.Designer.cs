@@ -76,7 +76,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(108, 53);
+            this.label2.Location = new System.Drawing.Point(107, 53);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(31, 20);
             this.label2.TabIndex = 3;
@@ -85,7 +85,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(107, 139);
+            this.label3.Location = new System.Drawing.Point(108, 135);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(32, 20);
             this.label3.TabIndex = 4;
@@ -192,9 +192,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(620, 485);
+            this.button1.Location = new System.Drawing.Point(17, 491);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(89, 38);
+            this.button1.Size = new System.Drawing.Size(168, 38);
             this.button1.TabIndex = 19;
             this.button1.Text = "Dinh kem";
             this.button1.UseVisualStyleBackColor = true;

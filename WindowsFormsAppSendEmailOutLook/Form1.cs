@@ -32,7 +32,7 @@ namespace WindowsFormsAppSendEmailOutLook
             //mail.To = "chinh18111993@gmail.com";
             //mail.Subject = "Gui thu tu dong";
             // mail.Body = "Khong co j ";
-            /
+            //
             mail.To = textBoxTo.Text;
             Thread.Sleep(100);
             mail.CC = textBoxCc.Text;
